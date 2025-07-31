@@ -18,6 +18,7 @@ Kaibu is a playful and caring AI companion designed to keep people company durin
 1. **Prerequisites**:
    - Python 3.7+
    - Microphone (built-in or external)
+   - Ensure you're in a quiet environment for the best voice recognition experience.
 
 2. **Install dependencies**:
    ```bash
