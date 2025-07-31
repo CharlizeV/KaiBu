@@ -6,7 +6,7 @@ from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.floatlayout import FloatLayout
 from kivy.uix.scrollview import ScrollView
 from kivy.uix.popup import Popup
-from kivy.graphics import Color, Ellipse, Rectangle, RoundedRectangle
+from kivy.graphics import Color, Rectangle, RoundedRectangle
 from kivy.core.window import Window
 from kivy.metrics import dp
 from kivy.clock import Clock
@@ -14,7 +14,7 @@ from kivy.uix.image import Image
 from kivy.uix.widget import Widget
 from kivy.core.text import LabelBase
 
-API_KEY = "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"
+API_KEY = "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"
 
 from openai import OpenAI
 import speech_recognition as sr
